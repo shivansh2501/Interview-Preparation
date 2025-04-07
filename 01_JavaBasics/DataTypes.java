@@ -8,7 +8,7 @@ class DataTypes {
 
         //byte
         byte n;
-        n = 127;
+        n = 127; 
         System.out.println(n);
 
         //char
